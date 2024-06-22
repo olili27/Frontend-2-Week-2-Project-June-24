@@ -7,6 +7,7 @@ body {
     padding: 20px;
     background-color: #000;
     color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
@@ -15,7 +16,7 @@ h2 {
 
 #show-count {
     border-bottom: 1px solid #fff;
-    width: 13rem;
+    width: 12rem;
     padding-bottom: 10px;
 }
 
