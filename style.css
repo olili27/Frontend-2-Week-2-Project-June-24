@@ -16,12 +16,12 @@ h2 {
 #show-count {
     border-bottom: 1px solid #fff;
     width: 13rem;
-    /* max-width: 16rem; */
     padding-bottom: 10px;
 }
 
 #show-count span {
     margin-left: 8px;
+    font-weight: bold;
 }
 
 #show-error {
