@@ -23,6 +23,9 @@ decrementBtn.addEventListener("click", () => {
         countElement.textContent--;
     }
 });
-countElement = 
-console.log("testing");
+
+clearBtn.addEventListener("click", () => {
+    let countElement = document.querySelector("#show-count span");
+    countElement.textContent = 0;
+});
 })
